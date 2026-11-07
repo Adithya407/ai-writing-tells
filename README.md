@@ -15,7 +15,7 @@ It does not try to make AI-drafted text pass AI detectors. For work that readers
 
 ## Install
 
-**Claude apps:** download `ai-writing-tells.skill` from the [latest release](https://github.com/Adithya407/ai-writing-tells/releases/latest) and add it from the Skills section of Claude's settings.
+**Claude apps:** download `ai-writing-tells.zip` from the [latest release](https://github.com/Adithya407/ai-writing-tells/releases/latest) and upload it from the Skills section of Claude's settings. Upload the zip as it is; don't unzip it first.
 
 **Claude Code:** copy the folder into `~/.claude/skills/`:
 

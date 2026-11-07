@@ -15,12 +15,12 @@ It does not try to make AI-drafted text pass AI detectors. For work that readers
 
 ## Install
 
-**Claude apps:** download [`dist/ai-writing-tells.skill`](dist/ai-writing-tells.skill) and add it from the Skills section of Claude's settings.
+**Claude apps:** download `ai-writing-tells.skill` from the [latest release](https://github.com/Adithya407/ai-writing-tells/releases/latest) and add it from the Skills section of Claude's settings.
 
 **Claude Code:** copy the folder into `~/.claude/skills/`:
 
 ```bash
-git clone https://github.com/Adithya407/ai-writing-tells_humanizer ~/.claude/skills/ai-writing-tells
+git clone https://github.com/Adithya407/ai-writing-tells ~/.claude/skills/ai-writing-tells
 ```
 
 The skill triggers on its own when you draft or edit prose, ask whether something "sounds AI", or mention AI writing tells. You can also call it by name.
